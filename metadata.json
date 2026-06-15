@@ -1,0 +1,6 @@
+{
+  "name": "IoT Relay & DHT Controller",
+  "description": "Kendali 4 relay, monitoring suhu & kelembaban DHT11 melalui Firebase, dilengkapi kendali suara, login email/password & Google, dan mode gelap.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
